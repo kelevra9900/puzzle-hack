@@ -1,0 +1,15 @@
+{
+    "are_you_sure": "Are you sure?",
+    "yes": "YES",
+    "no": "NO",
+    "dou_you_really": "Do you really want to restart the current puzzle",
+    "movements": "moves",
+    "restart": "Restart",
+    "start": "START",
+    "great_job": "GREAT JOB!",
+    "completed": "You have completed the puzzle",
+    "time": "Time",
+    "ok": "OK",
+    "privacy":"This is a free non-profit game, the game does not collect information of any kind from users or their traffic, it does not need internet.",
+    "back_to_game":"back to the game"
+}
