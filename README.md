@@ -23,3 +23,7 @@ For web use
 ```shell
 flutter run -d chrome --profile    
 ```
+
+## Credits
+
+[Tutorial by Darwin Morocho](https://www.youtube.com/watch?v=DEDO1yHXKHY&t=545s)
